@@ -29,10 +29,10 @@ const ProfilePage: React.FC = () => {
         </ul>
         <Followage>
           <span>
-             <strong> 98 </strong> Seguindo
+           <strong>98 </strong>Seguindo
           </span>
           <span>
-            <strong> 98 </strong> Seguidores
+            <strong> 98 </strong>Seguidores
           </span>
         </Followage>
       </ProfileData>
